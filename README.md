@@ -34,3 +34,4 @@ Este projeto foi desenvolvido com foco no aprendizado, reforçando a prática de
 
 Este projeto foi criado para fins educacionais e pode ser usado como base para estudos de PHP, organização de projetos e construção de interfaces responsivas com Bootstrap.
 
+TODO O CÓDIGO ESTÁ NA BRANCH MASTER
